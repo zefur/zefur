@@ -3,8 +3,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/j-d-hall/)
 
 
+[![Repos Badge](https://badges.pufler.dev/repos/zefur)](https://badges.pufler.dev)
 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!-- GitHub Stats -- >
 
