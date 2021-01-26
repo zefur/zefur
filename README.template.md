@@ -6,11 +6,9 @@
 [![Repos Badge](https://badges.pufler.dev/repos/zefur)](https://badges.pufler.dev)
 
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zefur)](https://github.com/zefur/github-readme-stats)
 
-<!-- GitHub Stats -- >
 
 <a href="https://github.com/zefur">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefur&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
