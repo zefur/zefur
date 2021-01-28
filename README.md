@@ -3,9 +3,11 @@
 I am James a fullstack web developer. I am a lover of languages both computer and natural. I sometimes write on [my website](https://jdhall.dev) or [dev.to](https://dev.to/zefur), but I mainly code and learn in the open on my [twitch channel](https://www.twitch.com/jozuhito). You can come say Hi on my [discord channel](https://discord.gg/sWEHvsBw)
 
 
-
+<div stylye="align: right">
 <img align="right" height="250" width="250"  src="/assets/avataaars.png" />
-
+[![Years Badge](https://badges.pufler.dev/years/zefur)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/zefur)](https://badges.pufler.dev)
+  </div>
 
 - 🔭 I’m currently working on building my coding network, career and future
 - 🌱 I’m currently learning [Svelte](https://svelte.dev), [React](https://reactjs.org)
