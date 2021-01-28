@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/zefur/zefur/main/assets/avataaars.png" />
-
-
+<img align="right" height="250" width="250"  src="/assets/avataaars.png" />
 
 
 - 🔭 I’m currently working on ...
@@ -28,7 +26,7 @@
 
 
 [![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zefur)](https://github.com/zefur/github-readme-stats)
-rr
+
 
 <a href="https://github.com/zefur">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefur&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
