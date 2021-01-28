@@ -14,36 +14,84 @@
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-319-blue)
 
-<!--END_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71711%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 61 Contributions in the Year 2021
+ > 
+> 📦 57.7 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 6 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    22 commits     ███████░░░░░░░░░░░░░░░░░░   30.56% 
+🌆 Daytime    34 commits     ███████████░░░░░░░░░░░░░░   47.22% 
+🌃 Evening    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+🌙 Night      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Tuesday      11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Wednesday    9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Thursday     15 commits     █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+Friday       13 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.06% 
+Saturday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Sunday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.89%
+
+```
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/zefur/)](https://badges.pufler.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/j-d-hall/)
-[![Repos Badge](https://badges.pufler.dev/repos/zefur)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/zefur)](https://badges.pufler.dev)
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+JavaScript               4 hrs 14 mins       ███████████████░░░░░░░░░░   62.03% 
+Ruby                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
+HTML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+CSS                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
+
+🔥 Editors: 
+VS Code                  6 hrs 50 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+gatsby_test              3 hrs 58 mins       ██████████████░░░░░░░░░░░   58.21% 
+FreeCodeCamp             1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
+templates                55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
+viewReflex               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
+superTicTac              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
+
+💻 Operating System: 
+Mac                      6 hrs 50 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Ruby** 
+
+```text
+Ruby                     8 repos             ████████████░░░░░░░░░░░░░   50.0% 
+JavaScript               8 repos             ████████████░░░░░░░░░░░░░   50.0%
+
+```
 
 
+**Timeline**
 
-[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zefur)](https://github.com/zefur/github-readme-stats)
+![Chart not found](https://raw.githubusercontent.com/zefur/zefur/main/charts/bar_graph.png) 
 
-
-<a href="https://github.com/zefur">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefur&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/zefur">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=zefur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="zefur's GitHub Stats" />
-</a>
-
-
-
-
-<!-- BLOG-POST-LIST:START -->
-- [How I am doing it better.](https://dev.to/zefur/how-i-am-doing-it-better-435)
-- [My Declaration](https://dev.to/zefur/my-declaration-1kje)
-<!-- BLOG-POST-LIST:END -->
-
-<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
