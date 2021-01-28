@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-<!--
-**zefur/zefur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/zefur/zefur/main/assets/avataaars.png" />
+
+
+
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning [Svelte](https://svelte.dev)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
