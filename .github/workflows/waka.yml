@@ -32,7 +32,7 @@ jobs:
           # Show language or framework used across different repository
           SHOW_LANGUAGE_PER_REPO:  True
           # 
-          SHOW_LOC_CHART:  True
+          SHOW_LOC_CHART:  False
           # show day of week you are most productive
           SHOW_DAYS_OF_WEEK: True
           # Shows the current profile views
