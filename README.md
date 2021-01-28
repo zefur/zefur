@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the best UI resource you've used?](https://dev.to/zefur/what-is-the-best-ui-resource-you-ve-used-1nnd)
+- [Rails and React](https://dev.to/zefur/rails-and-react-34el)
+- [How I am doing it better.](https://dev.to/zefur/how-i-am-doing-it-better-435)
+- [My Declaration](https://dev.to/zefur/my-declaration-1kje)
 <!-- BLOG-POST-LIST:END -->
