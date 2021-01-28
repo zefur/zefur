@@ -14,17 +14,17 @@
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-387-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-467-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71711%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 61 Contributions in the Year 2021
+> 🏆 62 Contributions in the Year 2021
  > 
-> 📦 57.7 kB Used in Github's Storage 
+> 📦 57.8 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
  > 
@@ -64,19 +64,6 @@ Ruby                     1 hr 10 mins        ████░░░░░░░�
 HTML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
 CSS                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
 Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
-
-🔥 Editors: 
-VS Code                  6 hrs 50 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-gatsby_test              3 hrs 58 mins       ██████████████░░░░░░░░░░░   58.21% 
-FreeCodeCamp             1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
-templates                55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
-viewReflex               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
-superTicTac              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
-
-💻 Operating System: 
-Mac                      6 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
