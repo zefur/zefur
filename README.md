@@ -40,7 +40,8 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How I am doing it better.](https://dev.to/zefur/how-i-am-doing-it-better-435)
+- [My Declaration](https://dev.to/zefur/my-declaration-1kje)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
