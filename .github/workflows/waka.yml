@@ -38,6 +38,6 @@ jobs:
           # Shows the current profile views
           SHOW_PROFILE_VIEWS: True
           # Shows the short facts
-          SHOW_SHORT_INFO: True
+          SHOW_SHORT_INFO: False
           # Show stats in your own language
           LOCALE: en
