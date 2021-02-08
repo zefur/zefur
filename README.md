@@ -11,7 +11,7 @@ I am James a fullstack web developer. I am a lover of languages both computer an
 - 🔭 I’m currently working on building my coding network, career and future
 - 🌱 I’m currently learning [Svelte](https://svelte.dev), [React](https://reactjs.org)
 - 👯 I’m looking to collaborate on interesting projects
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with becoming a better developer
 - 📫 How to reach me: [discord](https://discord.gg/sWEHvsBw)
                       - [twitter](twitter.com/zefur)
                       - [linkedin](https://linkedin.com/in/j-d-hall)
