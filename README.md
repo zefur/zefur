@@ -26,7 +26,7 @@ I am James a fullstack web developer. I am a lover of languages both computer an
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90300%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99661%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -67,8 +67,8 @@ CSS                      0 secs              ░░░░░░░░░░░�
 **I Mostly Code in Ruby** 
 
 ```text
-Ruby                     9 repos             ████████████░░░░░░░░░░░░░   50.0% 
-JavaScript               9 repos             ████████████░░░░░░░░░░░░░   50.0%
+Ruby                     10 repos            █████████████░░░░░░░░░░░░   52.63% 
+JavaScript               9 repos             ███████████░░░░░░░░░░░░░░   47.37%
 
 ```
 
