@@ -57,7 +57,7 @@ Sunday       11 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
