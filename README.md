@@ -57,8 +57,7 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               3 hrs 50 mins       █████████████████████░░░░   84.08% 
-Svelte                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92%
+No Activity Tracked This Week
 
 ```
 
@@ -73,5 +72,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2021
+ Last Updated on 10/08/2021
 <!--END_SECTION:waka-->
