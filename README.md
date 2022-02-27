@@ -57,7 +57,7 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -73,5 +73,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2022 00:42:20 UTC
+ Last Updated on 27/02/2022 00:44:01 UTC
 <!--END_SECTION:waka-->
