@@ -57,7 +57,7 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Ruby                     45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -73,5 +73,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2022 00:55:06 UTC
+ Last Updated on 14/04/2022 00:56:11 UTC
 <!--END_SECTION:waka-->
