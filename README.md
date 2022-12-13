@@ -24,45 +24,11 @@ I am James a fullstack web developer. I am a lover of languages both computer an
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-774%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    31 commits     ██████████░░░░░░░░░░░░░░░   41.89% 
-🌆 Daytime    15 commits     █████░░░░░░░░░░░░░░░░░░░░   20.27% 
-🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌙 Night      28 commits     █████████░░░░░░░░░░░░░░░░   37.84%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       12 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
-Tuesday      17 commits     █████░░░░░░░░░░░░░░░░░░░░   22.97% 
-Wednesday    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
-Thursday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
-Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
-Saturday     18 commits     ██████░░░░░░░░░░░░░░░░░░░   24.32% 
-Sunday       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.86%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Ruby                     1 hr 2 mins         ████████████░░░░░░░░░░░░░   51.21% 
-ERB                      59 mins             ████████████░░░░░░░░░░░░░   48.79%
-
-```
 
 **I Mostly Code in Ruby** 
 
@@ -76,5 +42,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2022 00:54:22 UTC
+ Last Updated on 13/12/2022 00:56:53 UTC
 <!--END_SECTION:waka-->
