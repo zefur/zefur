@@ -30,39 +30,6 @@ I am James a fullstack web developer. I am a lover of languages both computer an
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    31 commits     ██████████░░░░░░░░░░░░░░░   41.89% 
-🌆 Daytime    15 commits     █████░░░░░░░░░░░░░░░░░░░░   20.27% 
-🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌙 Night      28 commits     █████████░░░░░░░░░░░░░░░░   37.84%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       12 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
-Tuesday      17 commits     █████░░░░░░░░░░░░░░░░░░░░   22.97% 
-Wednesday    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
-Thursday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
-Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
-Saturday     18 commits     ██████░░░░░░░░░░░░░░░░░░░   24.32% 
-Sunday       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.86%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -75,5 +42,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2023 00:51:58 UTC
+ Last Updated on 03/01/2023 00:50:15 UTC
 <!--END_SECTION:waka-->
