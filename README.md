@@ -24,7 +24,7 @@ I am James a fullstack web developer. I am a lover of languages both computer an
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,8 +57,8 @@ Sunday                   301 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Svelte                   5 hrs 58 mins       █████████████████████████   99.61 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Svelte                   4 hrs 49 mins       █████████████████████████   99.52 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -73,5 +73,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2023 00:46:44 UTC
+ Last Updated on 26/03/2023 00:52:10 UTC
 <!--END_SECTION:waka-->
