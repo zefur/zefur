@@ -57,9 +57,7 @@ Sunday                   302 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Svelte                   2 hrs 6 mins        █████████████████████░░░░   85.51 % 
-Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Ruby** 
@@ -74,5 +72,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2023 00:46:54 UTC
+ Last Updated on 28/04/2023 00:47:31 UTC
 <!--END_SECTION:waka-->
