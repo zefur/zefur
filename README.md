@@ -57,7 +57,7 @@ Sunday                   310 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Ruby                     0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -72,5 +72,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2023 00:44:52 UTC
+ Last Updated on 16/10/2023 00:42:56 UTC
 <!--END_SECTION:waka-->
