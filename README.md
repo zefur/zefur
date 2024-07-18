@@ -24,7 +24,7 @@ I am James a hobbist developer. I am a lover of languages both computer and natu
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,10 +57,11 @@ Sunday                   310 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-ERB                      4 hrs 9 mins        █████████████░░░░░░░░░░░░   52.79 % 
-Ruby                     3 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.93 % 
-Svelte                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+ERB                      4 hrs 14 mins       █████████████░░░░░░░░░░░░   51.64 % 
+Ruby                     3 hrs 56 mins       ████████████░░░░░░░░░░░░░   47.98 % 
+Svelte                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -75,5 +76,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2024 00:49:17 UTC
+ Last Updated on 18/07/2024 00:48:46 UTC
 <!--END_SECTION:waka-->
