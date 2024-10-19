@@ -57,8 +57,7 @@ Sunday                   310 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 11 mins             ████████████████████████░   95.57 % 
-ERB                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Ruby** 
@@ -73,5 +72,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2024 00:57:39 UTC
+ Last Updated on 19/10/2024 00:56:27 UTC
 <!--END_SECTION:waka-->
